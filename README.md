@@ -9,7 +9,7 @@ Key Performance Indicators (KPIs) Requirements:
 5.	Average Debt-to-Income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, MTD, and track Month-over-Month (MoM) fluctuations.
 # Analyses derived from the dataset
 ## Overview 
-![Untitled design][https://github.com/NimmyBibin/Excel-project_Road-accident-analysis/blob/main/Dashboard.PNG])
+![Untitled design][https://github.com/NimmyBibin/Excel--Bank-Loan-Analysis/blob/main/Dashboard_Summary.PNG])
 
 DASHBOARD 2: OVERVIEW
 In our Bank Loan Report project, we aim to visually represent critical loan-related metrics and trends using a variety of chart types. These charts will provide a clear and insightful view of our lending operations, facilitating data-driven decision-making and enabling us to gain valuable insights into various loan parameters. 
