@@ -13,7 +13,7 @@ Key Performance Indicators (KPIs) Requirements:
 
 DASHBOARD 2: OVERVIEW
 In our Bank Loan Report project, we aim to visually represent critical loan-related metrics and trends using a variety of chart types. These charts will provide a clear and insightful view of our lending operations, facilitating data-driven decision-making and enabling us to gain valuable insights into various loan parameters. 
-
+![Untitled design][https://github.com/NimmyBibin/Excel--Bank-Loan-Analysis/blob/main/Dashboard_Overview.PNG])
 DASHBOARD 3: DETAILS
 The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
 
